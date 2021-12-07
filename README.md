@@ -22,3 +22,9 @@ particular suffix at the end.
 Write a function that implements filtering in array
 
 [filterArr.js](filterArr.js)
+
+# 5. Filter array by length
+
+Write a function which remove elements with length <= 3
+
+[filterArrCar.js](filterArrCar.js)
