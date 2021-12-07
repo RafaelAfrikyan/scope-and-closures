@@ -40,3 +40,9 @@ Given an array. Determine whether it consists only from uniques or not.
 Given an array of numbers. Find the sum of numbersʼ quadratic which are even.
 
 [sqrFromArr.js](sqrFromArr.js)
+
+# 8. Check word is palindrome or not.
+
+// Check whether string is palindrome, or not.
+
+[checkPalindrom.js](checkPalindrom.js)
