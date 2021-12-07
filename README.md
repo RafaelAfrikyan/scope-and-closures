@@ -16,3 +16,9 @@ Write a function that returns an anonymous function, which transforms its input 
 particular suffix at the end.
 
 [addSuffix.js](addSuffux.js)
+
+# 4. Filter array by truety values
+
+Write a function that implements filtering in array
+
+[filterArr.js](filterArr.js)
