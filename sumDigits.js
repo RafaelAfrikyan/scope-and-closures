@@ -5,5 +5,6 @@ function sum(a) {
     return a + b;
   };
 }
+
 const counter1 = sum(10);
 console.log(counter1(10));
