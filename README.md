@@ -34,3 +34,9 @@ Write a function which remove elements with length <= 3
 Given an array. Determine whether it consists only from uniques or not.
 
 [includeOrNo.js](includeOrNo.js)
+
+# 7. Sum even number in squaer
+
+Given an array of numbers. Find the sum of numbersʼ quadratic which are even.
+
+[sqrFromArr.js](sqrFromArr.js)
