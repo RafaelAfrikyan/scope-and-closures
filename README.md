@@ -28,3 +28,9 @@ Write a function that implements filtering in array
 Write a function which remove elements with length <= 3
 
 [filterArrCar.js](filterArrCar.js)
+
+# 6. Choose uniq elements from array
+
+Given an array. Determine whether it consists only from uniques or not.
+
+[includeOrNo.js](includeOrNo.js)
